@@ -38,6 +38,46 @@
             }
         ]
     },
+         "Old Duck Bemmy": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://100119675510683",
+        "Rarity": "Apex",
+        "PlacePrice": 12334,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 800,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 950,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 14000,
+                "Range": 29,
+                "Damage": 1150,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 16000,
+                "Range": 30,
+                "Damage": 1350,
+                "Cooldown": 0.1
+            }
+        ]
+        
+    },
     "Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://16620303027",
