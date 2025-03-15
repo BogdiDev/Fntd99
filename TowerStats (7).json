@@ -38,10 +38,49 @@
             }
         ]
     },
+    "Red Bounded Shadow": {
+        "Type": "Splash",
+        "Image": "rbxassetid://134321382632818",
+        "Rarity": "Apex",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 23000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 23000,
+                "Range": 18,
+                "Damage": 25000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 22,
+                "Damage": 27500,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 30000,
+                "Range": 25,
+                "Damage": 29000,
+                "Cooldown": 0.9
+            }
+        ]
+    },
          "Old Duck Bemmy": {
         "Type": "Aoe",
         "Image": "rbxassetid://100119675510683",
-        "Rarity": "Apex",
+        "Rarity": "Nightmare",
         "PlacePrice": 12334,
         "Max": 1,
         "Offset": 0.3,
