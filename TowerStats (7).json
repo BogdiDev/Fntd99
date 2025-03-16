@@ -38,6 +38,45 @@
             }
         ]
     },
+     "MrBeastFNTD": {
+        "Type": "Single",
+        "Image": "rbxassetid://71927409454279",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Max": 2,
+        "Offset": 0.5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 6000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 28,
+                "Damage": 7500,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 17500,
+                "Range": 32,
+                "Damage": 8000,
+                "Cooldown": 0.75
+            }
+        ]
+    },
      "Underwater Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://85852404827743",
