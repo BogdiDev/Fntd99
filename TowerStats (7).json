@@ -38,6 +38,126 @@
             }
         ]
     },
+     "Party Toy Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://118046698153815",
+        "Rarity": "Mythic",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 3500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 5500,
+                "Range": 18,
+                "Damage": 4000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 6500,
+                "Range": 22,
+                "Damage": 5000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 7500,
+                "Range": 25,
+                "Damage": 6500,
+                "Cooldown": 1.5
+            }
+        ]
+        
+    },
+    "Party Toy Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://108048008390002",
+        "Rarity": "Epic",
+        "PlacePrice": 800,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 300,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 900,
+                "Range": 18,
+                "Damage": 400,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 1250,
+                "Range": 22,
+                "Damage": 550,
+                "Cooldown": 0.6
+            }
+        ]
+        
+    },
+    "Party Rockin Bonnie": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://109851966945302",
+        "Rarity": "Secret",
+        "PlacePrice": 20000,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 7000,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 27500,
+                "Range": 30,
+                "Damage": 8000,
+                "Cooldown": 0.5
+            }
+        ]
+        
+    },
       "Cursed Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://121232397986575",
