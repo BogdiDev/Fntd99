@@ -38,6 +38,45 @@
             }
         ]
     },
+      "Cursed Endo": {
+        "Type": "Splash",
+        "Image": "rbxassetid://111658288128861",
+        "Rarity": "Secret",
+        "PlacePrice": 2222,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 777,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 3333,
+                "Range": 22,
+                "Damage": 888,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 4444,
+                "Range": 27,
+                "Damage": 999,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 5555,
+                "Range": 30,
+                "Damage": 1111,
+                "Cooldown": 0.35
+            }
+        ]
+    },
      "Party Monty": {
         "Type": "AOE",
         "Image": "rbxassetid://84366925395801",
