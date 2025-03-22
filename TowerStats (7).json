@@ -38,6 +38,45 @@
             }
         ]
     },
+     "Party Monty": {
+        "Type": "AOE",
+        "Image": "rbxassetid://84366925395801",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Max": 1,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 17500,
+                "Range": 24,
+                "Damage": 600,
+                "Cooldown": 0.15
+            },
+            {
+                "Price": 20000,
+                "Range": 28,
+                "Damage": 700,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 800,
+                "Cooldown": 0.1
+            }
+        ]
+    },
      "Cursed Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://99072834710803",
