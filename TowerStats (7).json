@@ -38,6 +38,45 @@
             }
         ]
     },
+    "Long Ears Foxy": {
+        "Type": "Melee",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Mythic",
+        "PlacePrice": 2500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 600,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 3000,
+                "Range": 23,
+                "Damage": 700,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 3500,
+                "Range": 25,
+                "Damage": 750,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 4000,
+                "Range": 27,
+                "Damage": 800,
+                "Cooldown": 0.5
+            }
+        ]
+    },
       "Gub Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://130816550099156",
