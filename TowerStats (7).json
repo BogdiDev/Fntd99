@@ -38,6 +38,45 @@
             }
         ]
     },
+      "Gub Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://130816550099156",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 5000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5500,
+                "Range": 19,
+                "Damage": 5500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 7500,
+                "Range": 24,
+                "Damage": 6000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 29,
+                "Damage": 7000,
+                "Cooldown": 0.8
+            }
+        ]
+    },
      "Chungus Springtrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://80946042654473",
