@@ -70,14 +70,14 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.2
+                "DamageBoost": 1.2
             },
             {
                 "Price": 1800,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.24
+                "DamageBoost": 1.24
             }
         ]
     },
