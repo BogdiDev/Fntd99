@@ -38,6 +38,49 @@
             }
         ]
     },
+       "Royal Spring Bonnie": {
+        "Type": "Support",
+        "Image": "rbxassetid://121191622747342",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.1
+            },
+            {
+                "Price": 1200,
+                "Range": 18,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 1400,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 1800,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.24
+            }
+        ]
+    },
     "Red Shadow Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://84122608828462",
