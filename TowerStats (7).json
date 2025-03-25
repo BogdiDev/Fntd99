@@ -38,6 +38,45 @@
             }
         ]
     },
+    "Miner Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://110767437438327",
+        "Rarity": "Epic",
+        "PlacePrice": 678,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 400,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 789,
+                "Range": 19,
+                "Damage": 500,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 890,
+                "Range": 22,
+                "Damage": 550,
+                "Cooldown": 1
+            },
+            {
+                "Price": 901,
+                "Range": 24,
+                "Damage": 600,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Cash Bag Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://134650062745525",
