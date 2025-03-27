@@ -38,6 +38,45 @@
             }
         ]
     },
+       "Galaxy Bonnie": {
+        "Type": "Continous Splash",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Apex",
+        "PlacePrice": 15500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 800,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 16000,
+                "Range": 25,
+                "Damage": 900,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 20000,
+                "Range": 28,
+                "Damage": 1000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 23000,
+                "Range": 30,
+                "Damage": 1100,
+                "Cooldown": 0.1
+            }
+        ]
+    },
      "Fart Freddy": {
         "Type": "Poison",
         "Image": "rbxassetid://87694148422511",
