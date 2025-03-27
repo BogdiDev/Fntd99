@@ -38,6 +38,49 @@
             }
         ]
     },
+       "Galaxy Springbon": {
+        "Type": "Support",
+        "Image": "rbxassetid://113490100763967",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 25,
+                "Cooldown": 4,
+                "DamageBoost": 1.1
+            },
+            {
+                "Price": 1500,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 4,
+                "DamageBoost": 1.15
+            },
+            {
+                "Price": 2000,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 4,
+                "DamageBoost": 1.2
+            },
+            {
+                "Price": 2500,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 4,
+                "DamageBoost": 1.27
+            }
+        ]
+    },
      "Mine Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://92268058651884",
