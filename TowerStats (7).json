@@ -38,6 +38,45 @@
             }
         ]
     },
+       "Hospital Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://79880961928727",
+        "Rarity": "Secret",
+        "PlacePrice": 14000,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 3500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 4000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 17500,
+                "Range": 20,
+                "Damage": 4500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 23,
+                "Damage": 5000,
+                "Cooldown": 0.9
+            }
+        ]
+    },
         "Skibidi Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://91949746258194",
