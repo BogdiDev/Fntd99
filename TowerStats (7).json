@@ -38,6 +38,45 @@
             }
         ]
     },
+        "Skibidi Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://91949746258194",
+        "Rarity": "Secret",
+        "PlacePrice": 6500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 5000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 7000,
+                "Range": 20,
+                "Damage": 6000,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 7500,
+                "Range": 22,
+                "Damage": 6500,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 9000,
+                "Range": 24,
+                "Damage": 7000,
+                "Cooldown": 1.2
+            }
+        ]
+    },
        "Galaxy Springbon": {
         "Type": "Support",
         "Image": "rbxassetid://113490100763967",
