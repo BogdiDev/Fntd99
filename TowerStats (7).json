@@ -38,6 +38,45 @@
             }
         ]
     },
+      "Neon Shadow Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Secret",
+        "PlacePrice": 17500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 200,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 16,
+                "Damage": 250,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 23500,
+                "Range": 18,
+                "Damage": 300,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 25000,
+                "Range": 22,
+                "Damage": 350,
+                "Cooldown": 0.05
+            }
+        ]
+    },
        "Nurse Fredbear": {
         "Type": "Single",
         "Image": "rbxassetid://79880961928727",
